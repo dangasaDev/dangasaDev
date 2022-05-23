@@ -1,5 +1,7 @@
 ### Hi ,I am Mirsaid Turgunboev <img  src="https://media1.giphy.com/media/NDBw4dLyyMeGiDilqS/giphy.gif?cid=790b7611b034b8c2e06728b60308307f83bf6348e98a9f2e&rid=giphy.gif&ct=s" width="60px">
-
+My telegram <a href="">
+  <img src="https://e7.pngegg.com/pngimages/258/579/png-clipart-telegram-logo-others-angle-triangle.png" width="30px">
+</a>
 <!--
 **dangasaDev/dangasaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
