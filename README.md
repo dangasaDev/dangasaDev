@@ -1,6 +1,6 @@
 ### Hi ,I am Mirsaid Turgunboev <img  src="https://media1.giphy.com/media/NDBw4dLyyMeGiDilqS/giphy.gif?cid=790b7611b034b8c2e06728b60308307f83bf6348e98a9f2e&rid=giphy.gif&ct=s" width="60px">
 My telegram <a href="">
-  <img src="[https://i.pinimg.com/736x/79/c3/15/79c315509d714f25c500ede412d38de7.png](https://w7.pngwing.com/pngs/723/481/png-transparent-telegram-computer-icons-logo-instant-messaging-logo-telegram-blue-angle-triangle.png)" width="30px">
+  <img src="https://image.similarpng.com/very-thumbnail/2020/07/Telegram-icon-on-transparent-background-PNG.png" width="30px">
 </a>
 <!--
 **dangasaDev/dangasaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
