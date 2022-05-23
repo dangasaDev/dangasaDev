@@ -1,4 +1,4 @@
-### Hi ,I am Mirsaid Turgunboev <img  src="https://media4.giphy.com/media/l4S95aLS28TNZDlzbX/giphy.gif?cid=ecf05e471rmfh32p8an8387chyjf9aijzqwb554k90juj9pf&rid=giphy.gif&ct=s" width="60px">
+### Hi ,I am Mirsaid Turgunboev <img  src="https://media1.giphy.com/media/NDBw4dLyyMeGiDilqS/giphy.gif?cid=790b7611b034b8c2e06728b60308307f83bf6348e98a9f2e&rid=giphy.gif&ct=s" width="60px">
 
 <!--
 **dangasaDev/dangasaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
