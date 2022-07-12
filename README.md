@@ -5,6 +5,6 @@
  <a href="https://www.instagram.com/mirsaid.turgunboev/">My instagram
   <img src="https://i.pinimg.com/564x/2c/da/19/2cda1925dcf4fb8f0644413f49671ffa.jpg" width="20px" color="black">
 </a>
-<img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo.png" width="20px" color="black">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqqwhdpAnT4j6YntmiECcccF5nRigwvNPmg&usqp=CAU" width="20px" color="black">
 <br>
 
