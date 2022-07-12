@@ -2,7 +2,8 @@
  <a href="https://t.me/muqim1" style="border:solid red 2px; padding:5px 10px;">My telegram</a> <br>
  <a href="https://www.instagram.com/mirsaid.turgunboev/" style="border:solid red 2px; padding:5px 10px;">My instagram</a>
 <img src="https://gremmedia.hu/storage/app/uploads/public/5ec/06d/83b/5ec06d83b40d4188321695.png" width="100px" color="black">
-<img src="https://avatars.mds.yandex.net/i?id=7ccf57f7f85d1ff96ffb9b8265767f25-4078058-images-thumbs&n=13" width="100px" color="black">
+
+<img src="https://library.kissclipart.com/20180927/jeq/kissclipart-html5-css3-clipart-html5-and-css3-responsive-web-d-c10f92b58f7e07ba.jpg" width="100px" color="black">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqqwhdpAnT4j6YntmiECcccF5nRigwvNPmg&usqp=CAU" width="100px" color="black">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="100px" color="black">
 
